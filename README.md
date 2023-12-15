@@ -26,10 +26,17 @@ Dengan cara ini, program memungkinkan pengguna untuk memberikan input mereka sen
 
 ## Contoh Penggunaan
 
+
+
+![ecb](https://github.com/azizuldz/kriptografi13/blob/main/pict.PNG)
+
 ### Input:
+
 
 ```plaintext
 Masukkan Plaintext (hex): A23A9
-Masukkan Kunci (binary): 1011
+Masukkan Kunci (binary): 1011 ```
+
+
 
  
